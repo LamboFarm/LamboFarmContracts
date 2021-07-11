@@ -6,6 +6,9 @@ Deployer Wallet
 $LAMBO Token
 0x041a33502ba2ab0d73f400564cfaa696b2ac8b64
 
+FundLocker Contract
+0xb7a71f2fc06f337357a904f9056bd4e5b82728a2
+
 # Pools
 
 KCS--LAMBO
